@@ -4,7 +4,7 @@
 
 for(let i=1;i<=5;i++)
 {
-  let str=""
+  let str=""      //it is use for space
   for(let j=1;j<=5;j++)
   {
 str=str+"*"+" "
